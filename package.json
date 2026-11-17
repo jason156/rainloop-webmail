@@ -71,7 +71,7 @@
     "gulp-concat-util": "*",
     "gulp-notify": "~2.2.0",
     "gulp-through": "~0.3.0",
-    "lodash": "~3.9.3",
+    "lodash": "~4.18.1",
     "gulp-if": "~1.2.5",
     "node-notifier": "~4.2.3",
     "gulp-livereload": "~3.8.0"
